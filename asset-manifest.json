@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-tailwindcss-profile/static/css/main.ee652055.chunk.css",
+    "main.js": "/react-tailwindcss-profile/static/js/main.732eef75.chunk.js",
+    "main.js.map": "/react-tailwindcss-profile/static/js/main.732eef75.chunk.js.map",
+    "runtime~main.js": "/react-tailwindcss-profile/static/js/runtime~main.f71b7bb9.js",
+    "runtime~main.js.map": "/react-tailwindcss-profile/static/js/runtime~main.f71b7bb9.js.map",
+    "static/js/2.9d803c65.chunk.js": "/react-tailwindcss-profile/static/js/2.9d803c65.chunk.js",
+    "static/js/2.9d803c65.chunk.js.map": "/react-tailwindcss-profile/static/js/2.9d803c65.chunk.js.map",
+    "index.html": "/react-tailwindcss-profile/index.html",
+    "precache-manifest.9a135c365c7452a4086ed45d58831c21.js": "/react-tailwindcss-profile/precache-manifest.9a135c365c7452a4086ed45d58831c21.js",
+    "service-worker.js": "/react-tailwindcss-profile/service-worker.js",
+    "static/css/main.ee652055.chunk.css.map": "/react-tailwindcss-profile/static/css/main.ee652055.chunk.css.map"
+  }
+}
