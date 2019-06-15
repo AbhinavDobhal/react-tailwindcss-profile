@@ -7587,6 +7587,10 @@ video {
   --border-border-color-primary: white;
 }
 
+.border-t-14 {
+  border-top-width: 14px;
+}
+
 .theme-light .search-highlighted {
   background: #f0fff4;
 }
